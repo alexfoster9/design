@@ -13,4 +13,4 @@
 
 ## Авторы
 
-- [@alexfoster9](https://www.github.com/Alexfoster9)
+- [@alexfoster9](https://www.github.com/alexfoster9)
